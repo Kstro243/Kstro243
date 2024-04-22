@@ -5,7 +5,9 @@
 🧠 Experience in ERP systems to enhance operative efficiency within companies.
 🔭 Interested in development, testing and 
 
-<img align="center" src="https://github.com/Kstro243/Kstro243/assets/122182847/ba0ad83b-aec4-4d20-befd-5a24e2722917">
+<div align="center"> 
+  <img src="https://github.com/Kstro243/Kstro243/assets/122182847/ba0ad83b-aec4-4d20-befd-5a24e2722917" /> 
+</div>
 
 
 
