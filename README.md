@@ -1,10 +1,11 @@
-### Hi there 👋
+### ⚡Juan Castro
 
+🤔 Soy un desarrollador full-stack. Me encanta aprender cosas nuevas todos los días. 
 
 ![9lvtTS6TIm747H9bRhmDJGLZIAHCaGk0hpjrhjk9VzM](https://github.com/Kstro243/Kstro243/assets/122182847/ba0ad83b-aec4-4d20-befd-5a24e2722917)
 
-
-
+## Languages and Tools
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
 <!--
 **Kstro243/Kstro243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
