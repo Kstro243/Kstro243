@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](![](https://giphy.com/gifs/coding-zOvBKUUEERdNm))
+
 <!--
 **Kstro243/Kstro243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
