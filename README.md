@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://giphy.com/gifs/coding-zOvBKUUEERdNm)
+![](https://www.reddit.com/r/MRW/comments/3h0aa5/mrw_the_porn_wont_close_and_i_hear_someone/)
 
 <!--
 **Kstro243/Kstro243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
