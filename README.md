@@ -1,16 +1,13 @@
 ### ⚡Juan Castro
 
-🤔 Full-stack developer. 
-🌱 I love learning new things every day.
-🧠 Experience in ERP systems to enhance operative efficiency within companies.
-🔭 Interested in development, testing and 
+🤔 Full-stack developer.\
+🌱 I love learning new things every day.\
+🧠 Experience in ERP systems to enhance operative efficiency within companies.\
+🔭 Interested in development, testing and deployment.\
 
 <div align="center"> 
   <img src="https://github.com/Kstro243/Kstro243/assets/122182847/ba0ad83b-aec4-4d20-befd-5a24e2722917" /> 
 </div>
-
-
-
 
 ## 🛠️ Languages and Tools
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
